@@ -1,4 +1,4 @@
-# Teste para o workshop de Markdown
+# Um título mais apropriado
 
 Olá mundo!
 
